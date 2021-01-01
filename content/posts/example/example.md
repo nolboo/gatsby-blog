@@ -1,5 +1,5 @@
 ---
-title: "Lorem ipsum"
+title: "한글 제목ex"
 path: "/demo"
 tags: ["Demo"]
 featuredImage: "./cover.jpg"
